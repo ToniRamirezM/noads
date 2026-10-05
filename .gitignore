@@ -1,0 +1,6 @@
+.venv/
+.pio/
+.vscode/
+.DS_Store
+include/secrets.h
+backup/
